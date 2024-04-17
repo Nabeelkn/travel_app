@@ -1,0 +1,791 @@
+.head1{
+    font-family: 'Nosifer', sans-serif;
+    font-size: 30px;
+    color: green;
+}
+#subhead{
+    margin-top: -27px;
+    font-size: 10px;
+    font-weight: 100px;
+}
+.dropdown{
+    margin-left: 1190px;
+    margin-top: -50px;
+    /* width: 100px; */
+}
+.btn{
+    width: 75px;
+    border-radius: 50px;
+}
+/* #mainhead{
+    /* border-color: black; */
+/* } */
+/* .btn2{
+    padding-left: 100px;
+}
+.btn3{
+    padding-left: 131px;    */
+/* } */
+/* #backgroundimg{
+    width: 100%;  
+} */
+.btn-group{
+    margin-right: 120px;
+}
+#p1{
+    margin-left: 30px;
+    margin-top: -39px;
+}
+#p2{
+    margin-left: 180px;
+    margin-top: -39px;
+}
+#p3{
+    margin-left: 370px;
+    margin-top: -39px;
+}
+/* .carousel-inner{
+    height: 700px;
+} */
+.d-block{
+    height: 400px;
+    width: 1000px;
+}
+#backgroundimg{
+  width: 100%;  
+}
+.carousel-inner{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: -130px;
+}
+.para{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    margin-top: -50px;
+}
+.fa-bars{
+    margin-bottom: -60px;
+}
+.search{
+    margin-left: 980px;
+  margin-top: -1000px;
+width: 250px;
+height: 50px;
+border-radius: 30px;
+border-color: rgb(107, 107, 107);
+}
+#cntr-txt{
+    font-size: 30px;
+    font-family: 'Geologica', sans-serif;
+    margin-top: 60px;
+}
+#first{
+    font-size: 20px;
+    font-family: 'Geologica', sans-serif;
+    margin-left: 50px;
+    margin-top: 8px;
+}
+.fa-ticket{
+    font-size: 40px;
+    margin-left:  110px;  
+    margin-top: 40px;                         
+}
+#first1{
+
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: 45px;
+    margin-top: -10px;
+}
+
+.block1{
+    margin-top: 50px;
+}
+
+.block2{
+    margin-left: 370px;
+    margin-top: -126px;
+}
+
+.fa-fly{
+    font-size: 40px;
+    margin-left:  110px;  
+}
+
+#second{
+    font-size: 20px;
+    font-family: 'Geologica', sans-serif;
+    margin-top: 10px;
+}
+
+
+#second2{
+    margin-top: -10px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.block3{
+    margin-left: 730px;
+    margin-top: -120px;
+}
+
+.fa-calendar{
+    font-size: 35px;
+    margin-left:  110px;
+}
+
+#third{
+    font-size: 20px;
+    font-family: 'Geologica', sans-serif;
+    margin-top: 10px;  
+}
+#third3{
+    margin-top: -10px;
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: 50px;
+}
+.block4{
+    margin-left: 1040px;
+    margin-top: -120px;
+}
+
+.fa-star{
+    font-size: 35px;
+    margin-left:  70px;
+}
+
+#fourth{
+    font-size: 20px;
+    font-family: 'Geologica', sans-serif;
+    margin-top: 10px;  
+}
+
+#fourth4{
+    margin-top: -10px;
+    font-family: 'Noto Sans', sans-serif;
+   
+}
+#desti{
+    font-size: 30px;
+    font-family: 'Geologica', sans-serif;
+    margin-top: 60px;
+    margin-left: 500px;
+}
+
+.img1{
+
+    margin-left: 25px;
+}
+.image1{
+    height: 17%;
+    width: 17%;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+img:hover{
+    opacity: 1.0;
+}
+
+#imgtxt1{
+    margin-top: -80px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 50px;
+}
+
+.img2{
+    margin-left: 270px;
+    margin-top: -107px;
+   
+}
+.image2{
+    height: 135px;
+    width: 217px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7; 
+}
+img:hover{
+    opacity: 1.0;
+}
+#imgtxt2{
+    margin-top: -80px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 30px;
+}
+.img3{
+    margin-left: 520px;
+    margin-top: -108px;
+   
+}
+.image3{
+    height: 135px;
+    width: 217px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7; 
+}
+img:hover{
+    opacity: 1.0;
+}
+#imgtxt3{
+    margin-top: -90px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 40px;
+}
+.img4{
+    margin-left: 770px;
+    margin-top: -98px;
+   
+}
+.image4{
+    height: 135px;
+    width: 217px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7; 
+}
+img:hover{
+    opacity: 1.0;
+}
+#imgtxt4{
+    margin-top: -90px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 40px;
+}
+.img5{
+    margin-left: 1020px;
+    margin-top: -100px;
+   
+}
+.image5{
+    height: 135px;
+    width: 217px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7; 
+}
+img:hover{
+    opacity: 1.0;
+}
+#imgtxt5{
+    margin-top: -90px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 30px;
+}
+.img6{
+    margin-left: 23px;
+   margin-top: 100px;
+}
+.image6{
+    height: 135px;
+    width: 217px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7; 
+}
+img:hover{
+    opacity: 1.0;
+}
+#imgtxt6{
+    margin-top: -90px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 50px;
+}
+.img7{
+    margin-left: 270px;
+   margin-top: -99px;
+}
+.image7{
+    height: 135px;
+    width: 217px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7; 
+}
+img:hover{
+    opacity: 1.0;
+}
+#imgtxt7{
+    margin-top: -90px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 60px;
+}
+.img8{
+    margin-left: 520px;
+   margin-top: -99px;
+}
+.image8{
+    height: 135px;
+    width: 217px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7; 
+}
+img:hover{
+    opacity: 1.0;
+}
+#imgtxt8{
+    margin-top: -90px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 50px;
+}
+.img9{
+    margin-left: 770px;
+   margin-top: -99px;
+}
+.image9{
+    height: 135px;
+    width: 217px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7; 
+}
+img:hover{
+    opacity: 1.0;
+}
+#imgtxt9{
+    margin-top: -90px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 20px;
+}
+.img10{
+    margin-left: 1020px;
+   margin-top: -99px;
+}
+.image10{
+    height: 135px;
+    width: 217px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    opacity: 0.7; 
+}
+img:hover{
+    opacity: 1.0;
+}
+#imgtxt10{
+    margin-top: -90px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 70px;
+}
+
+.bluebox{
+    background-color: rgb(222, 244, 237);
+    height: 250px;
+}
+#blutxt{
+    font-size: 40px;
+    font-family: 'Geologica', sans-serif;
+    margin-left: 450px;
+}
+#blutxt2{
+    font-family: 'Noto Sans', sans-serif; 
+    margin-left: 460px;
+    font-size: 18px;
+}
+#attr{
+    font-size: 30px;
+    font-family: 'Geologica', sans-serif;
+    margin-top: 30px;
+    margin-left: 520px;
+}
+
+
+#box1{
+    margin-left: 25px;
+}
+
+
+.pic1{
+    height:100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#par1{
+    margin-left: 120px;
+    margin-top: -85px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+}
+#par11{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+#box2{
+    margin-left: 450px;
+    margin-top: -90px;
+}
+
+
+.pic2{
+    height:100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#par2{
+    margin-left: 120px;
+    margin-top: -85px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+}
+#par22{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+#box3{
+    margin-left: 900px;
+    margin-top: -90px;
+}
+
+
+.pic3{
+    height:100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#par3{
+    margin-left: 120px;
+    margin-top: -85px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+}
+#par33{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+#box4{
+    margin-left: 25px;
+    margin-top: 40px;
+}
+
+
+.pic4{
+    height:100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#par4{
+    margin-left: 120px;
+    margin-top: -85px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+}
+#par44{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+#box5{
+    margin-left: 450px;
+    margin-top: -87px;
+}
+
+
+.pic5{
+    height:100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#par5{
+    margin-left: 120px;
+    margin-top: -85px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+}
+#par55{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+#box6{
+    margin-left: 900px;
+    margin-top: -93px;
+}
+
+
+.pic6{
+    height:100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#par6{
+    margin-left: 120px;
+    margin-top: -85px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+}
+#par66{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+#box7{
+    margin-left: 25px;
+    margin-top: 70px;
+}
+
+
+.pic7{
+    height:100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#par7{
+    margin-left: 120px;
+    margin-top: -85px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+}
+#par77{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+#box8{
+    margin-left: 450px;
+    margin-top: -88px;
+}
+
+
+.pic8{
+    height:100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#par8{
+    margin-left: 120px;
+    margin-top: -85px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+}
+#par88{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+#box9{
+    margin-left: 900px;
+    margin-top: -89px;
+}
+
+
+.pic9{
+    height:100px;
+    width: 100px;
+    border-radius: 10px;
+}
+#par9{
+    margin-left: 120px;
+    margin-top: -85px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 20px;
+}
+#par99{
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+.anotherBox{
+    background-color: rgb(222, 244, 237);
+    height: 250px;
+}
+#anotherBox1{
+    font-size: 40px;
+    font-family: 'Geologica', sans-serif;
+    margin-left: 450px;
+}
+#anotherBox2{
+    font-family: 'Noto Sans', sans-serif; 
+    margin-left: 450px;
+    font-size: 18px;
+}
+.scrnsht{
+    width: 1300px;
+    height: 250px;
+    margin-left: -50px;
+}
+#warm{
+    font-size: 30px;
+    font-family: 'Geologica', sans-serif;
+    margin-left: 500px;  
+}
+#card1{
+    margin-left: 25px;
+    border-radius: 20px;
+    height: 370px;
+
+}
+#crdimg1{
+    height:300px;
+    width: 210px;
+    border-radius:20px ;
+}
+.card-text1{
+    font-size: 20px;
+    font-family: 'Geologica', sans-serif; 
+    margin-top: -10px;
+    margin-left: 10px; 
+}
+.card-text11{
+    margin-top: -10px;
+    margin-left: 10px; 
+    font-family: 'Noto Sans', sans-serif; 
+}
+#card2{
+    margin-left: 280px;
+    border-radius: 20px;
+    height: 370px;
+    margin-top: -370px;
+    
+}
+#crdimg2{
+    height:300px;
+    width: 210px;
+    border-radius:20px ;
+}
+.card-text2{
+    font-size: 20px;
+    font-family: 'Geologica', sans-serif; 
+    margin-top: -10px;
+    margin-left: 10px; 
+}
+.card-text22{
+    margin-top: -10px;
+    margin-left: 10px; 
+    font-family: 'Noto Sans', sans-serif; 
+}
+#card3{
+    margin-left: 530px;
+    border-radius: 20px;
+    height: 370px;
+    margin-top: -370px;
+    
+}
+#crdimg3{
+    height:300px;
+    width: 210px;
+    border-radius:20px ;
+}
+.card-text3{
+    font-size: 20px;
+    font-family: 'Geologica', sans-serif; 
+    margin-top: -10px;
+    margin-left: 10px; 
+}
+.card-text33{
+    margin-top: -10px;
+    margin-left: 10px; 
+    font-family: 'Noto Sans', sans-serif; 
+}
+#card4{
+    margin-left: 780px;
+    border-radius: 20px;
+    height: 370px;
+    margin-top: -370px;
+    
+}
+#crdimg4{
+    height:300px;
+    width: 210px;
+    border-radius:20px ;
+}
+.card-text4{
+    font-size: 20px;
+    font-family: 'Geologica', sans-serif; 
+    margin-top: -10px;
+    margin-left: 10px; 
+}
+.card-text44{
+    margin-top: -10px;
+    margin-left: 10px; 
+    font-family: 'Noto Sans', sans-serif; 
+}
+#card5{
+    margin-left: 1030px;
+    border-radius: 20px;
+    height: 370px;
+    margin-top: -370px;
+    
+}
+#crdimg5{
+    height:300px;
+    width: 210px;
+    border-radius:20px ;
+}
+.card-text5{
+    font-size: 20px;
+    font-family: 'Geologica', sans-serif; 
+    margin-top: -10px;
+    margin-left: 10px; 
+}
+.card-text55{
+    margin-top: -10px;
+    margin-left: 10px; 
+    font-family: 'Noto Sans', sans-serif; 
+}
+.scrnsht2{
+    width: 1250px;
+    height: 550px;
+    margin-left: 10px;
+}
+.scrnsht3{
+    width: 1260px;
+    height: 500px;
+    margin-left: 0px;
+}
